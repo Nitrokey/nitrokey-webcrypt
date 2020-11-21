@@ -1,3 +1,12 @@
+
+
+# Document moved
+
+This branch is outdated. Please see below:
+- https://github.com/Nitrokey/nitrokey-webcrypt/blob/master/implementation.md
+
+--------------------------------------------
+
 # Nitrokey Webcrypt Implementation Documentation
 
 This is a documentation of the implemented Nitrokey Webcrypt Milestone 1 interface in the Nitrokey FIDO2. Below a high level description of the commands, as well as low-level protocol details can be found. 
